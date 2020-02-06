@@ -5,5 +5,5 @@ Creating threads in two ways:
 2. Extending java.lang.Thread class
 
 Implementing synchronized executions for controlled access:
-  Synchronization
-  Locks
+  - Synchronization
+  - Locks
