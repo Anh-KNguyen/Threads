@@ -20,15 +20,3 @@ public class locks {
         catch(InterruptedException e) { }
         lock.unlock();
     }
-
-    public void lockExample2() {
-        lock.lock();
-        try {
-            // thread executes something
-            Thread.sleep(3000);
-        }
-        catch(InterruptedException e) { }
-        lock.unlock();
-    }
-
-}

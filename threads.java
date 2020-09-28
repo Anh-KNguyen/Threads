@@ -1,4 +1,4 @@
-// Creating threads in two ways:
+// Create threads in two ways:
 //   - Implementing runnable interface
 //   - Extending the thread class
 
